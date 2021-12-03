@@ -30,4 +30,4 @@ console.log(`The horizontal distance is ${horizontal}.`)
 console.log(`The depth is ${depth}.`)
 console.log(`The aim is ${aim}.`)
 
-console.log(`The multipled distance is ${horizontal * depth}.`)
+console.log(`The multiplied distance is ${horizontal * depth}.`)
